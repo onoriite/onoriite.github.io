@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onoriite.github.io/Cos/sitemap_index.txt
+Sitemap: https://onoriite.github.io/TgL/sitemap_index.txt
+Sitemap: https://onoriite.github.io/VbN/sitemap_index.txt
+Sitemap: https://onoriite.github.io/Xfp/sitemap_index.txt
